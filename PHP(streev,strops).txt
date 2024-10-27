@@ -1,0 +1,11 @@
+<?php
+$text = "I learn php";
+$strlen = strlen($text);
+
+
+$text_count_word = str_word_count($text);
+
+$text_strrev = strrev($text);
+$text_strops = strpos($text, "learn");
+echo $text_strops;
+?>

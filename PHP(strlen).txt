@@ -1,0 +1,7 @@
+<?php
+$text = "I learn php";
+$strlen = strlen($text);
+
+$text_count_word = str_word_count('I learn php');
+echo $text_count_word;
+?>

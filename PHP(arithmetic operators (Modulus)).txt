@@ -1,0 +1,17 @@
+<?php
+$number1  = 10;
+$number2  = 5;
+$result = $number1 % $number2;
+echo $result;
+/*
+ +	Addition	            عملية جمع
+-	Subtraction	            عملية طرح
+*	Multiplication          عمليات ضرب	
+/	Division	            عملية قسمة
+%	Modulus	                لإعادة الباقي عند عملية القسمة
+**	Exponentiation	        لإضافة قوة اس 
+
+*/
+
+
+?>

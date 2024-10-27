@@ -1,0 +1,13 @@
+<?php
+// a-z 1 _
+// يجوز لك ان تبدا اسم متغير برقم 
+// لايجوز لك انشاء متغير اسماء متغيرات المحجوزة 
+// $name غير متساية ع $namE
+// $()name ="Mohammad Abed";
+//$1number = 200;
+$number = 200;
+
+
+$text = " Welcome MY Site ";
+echo $text;
+?>

@@ -1,0 +1,17 @@
+<?php
+
+$data = 10;
+$check = is_integer($data);
+var_dump($check);
+
+
+// is_string(variable_name);
+// is_bool(varable_name);
+// is_float(varable_name);
+// is_integer(varable_name);
+// is_numeric(varable_name);
+// is_null(varable_name);
+
+// is_array(varable_name);
+// is_object(varable_name);
+?>

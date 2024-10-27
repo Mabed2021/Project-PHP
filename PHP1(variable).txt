@@ -1,0 +1,18 @@
+
+<?php
+$text = 'Mohammad abed'; // نوع البيانات النصي
+echo $text;
+$number = 200; // نوع البيانات ارقام الصحيحي
+echo $number;
+$float_number = 100.25; // نوع البيانات الذي يحتوي علي الفاصلة
+echo "<h1>$float_number<h1>";
+
+$boolean = false; // boolean يمكنك تخزين البيانات true or false 
+$name = null; // البيانات غير المحددة 
+
+$name = "mohammadabed";
+echo "<p>$name</p>";
+
+$numbers = array(2020,2021,2050);
+echo $numbers [1];
+?>
